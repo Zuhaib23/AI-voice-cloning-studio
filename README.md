@@ -52,10 +52,8 @@ It combines the power of [Coqui TTS](https://github.com/coqui-ai/TTS) and custom
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/voice-cloning-studio.git
-cd voice-cloning-studio
-```
-
+git clone https://github.com/Zuhaib23/AI-voice-cloning-studio.git
+cd AI-voice-cloning-studio
 ### 2. Set Up Environment
 
 ```bash
