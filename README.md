@@ -35,11 +35,11 @@ It combines the power of [Coqui TTS](https://github.com/coqui-ai/TTS) and custom
 ## 📸 Interface Preview
 
 <p align="center">
-  <img width="852" height="302" alt="pic 1" src="https://github.com/user-attachments/assets/d703920a-a018-49c3-967b-eaa3e65c7706" />
-  <img width="857" height="302" alt="pic 2" src="https://github.com/user-attachments/assets/2401efbb-1ba5-40b6-ad40-9c803ff087fb" />
-  <img width="860" height="302" alt="pic3" src="https://github.com/user-attachments/assets/c6d28cb7-3935-4e47-8906-0674505a61a3" />
+  <img width="900" height="302" alt="pic 1" src="https://github.com/user-attachments/assets/d703920a-a018-49c3-967b-eaa3e65c7706" />
+  <img width="900" height="302" alt="pic 2" src="https://github.com/user-attachments/assets/2401efbb-1ba5-40b6-ad40-9c803ff087fb" />
+  <img width="900" height="302" alt="pic3" src="https://github.com/user-attachments/assets/c6d28cb7-3935-4e47-8906-0674505a61a3" />
 
-  <img width="867" height="302" alt="pic 4" src="https://github.com/user-attachments/assets/ff9fd763-ab93-4fd2-97e4-ff5f26636ad0" />
+  <img width="900" height="302" alt="pic 4" src="https://github.com/user-attachments/assets/ff9fd763-ab93-4fd2-97e4-ff5f26636ad0" />
 
 
 
@@ -147,8 +147,8 @@ voice-cloning-studio/
 ## ✅ Sample Output
 
 <p align="center">
-  <img width="796" height="302" alt="pic 6" src="https://github.com/user-attachments/assets/248ecd94-6a9f-4047-96a4-c60f195f7ba5" />
-  <img width="852" height="302" alt="5" src="https://github.com/user-attachments/assets/a1237fcf-b2cb-4a66-823b-71f0d43e67d7" />
+  <img width="900" height="302" alt="pic 6" src="https://github.com/user-attachments/assets/248ecd94-6a9f-4047-96a4-c60f195f7ba5" />
+  <img width="900" height="302" alt="5" src="https://github.com/user-attachments/assets/a1237fcf-b2cb-4a66-823b-71f0d43e67d7" />
 
  
 </p>
