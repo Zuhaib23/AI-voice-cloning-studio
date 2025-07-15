@@ -110,7 +110,7 @@ pip install torch TTS ipywidgets sounddevice scipy numpy
 
 ```
 voice-cloning-studio/
-├─ voice sample                # for  testing
+├─ test audio.wav               # for  testing
 ├──  AI Voice Cloning Studio.ipynb # Main Jupyter interface
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
