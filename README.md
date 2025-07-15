@@ -112,7 +112,7 @@ pip install torch TTS ipywidgets sounddevice scipy numpy
 
 ```
 voice-cloning-studio/
-├── assets/                     # UI assets (screenshots, icons)
+├─ voice sample                # for  testing
 ├── voice_cloning_studio.ipynb # Main Jupyter interface
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
@@ -147,8 +147,8 @@ voice-cloning-studio/
 ## ✅ Sample Output
 
 <p align="center">
-  <img width="796" height="315" alt="pic 6" src="https://github.com/user-attachments/assets/248ecd94-6a9f-4047-96a4-c60f195f7ba5" />
-  <img width="852" height="167" alt="5" src="https://github.com/user-attachments/assets/a1237fcf-b2cb-4a66-823b-71f0d43e67d7" />
+  <img width="796" height="302" alt="pic 6" src="https://github.com/user-attachments/assets/248ecd94-6a9f-4047-96a4-c60f195f7ba5" />
+  <img width="852" height="302" alt="5" src="https://github.com/user-attachments/assets/a1237fcf-b2cb-4a66-823b-71f0d43e67d7" />
 
  
 </p>
@@ -158,8 +158,7 @@ voice-cloning-studio/
 ## 🧑‍💻 Author
 
 **Muhammad Zuhaib**
-Computer Systems Engineer | AI Enthusiast
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: https://github.com/Zuhaib23
 
 ---
 
@@ -186,10 +185,3 @@ If you find this project useful, consider starring 🌟 the repository and shari
 
 ---
 
-Would you like me to:
-
-* Package this into a `.zip` with assets and notebook?
-* Generate `requirements.txt` and a starter repo scaffold?
-* Auto-create a `LICENSE` file?
-
-Let me know and I’ll prepare the files for upload.
